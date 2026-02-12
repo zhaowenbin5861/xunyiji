@@ -1,0 +1,7 @@
+{
+  "name": "AI Wardrobe Organizer",
+  "description": "An intelligent wardrobe assistant to help you organize, find, and get recommendations for your clothes. Capture items with your camera, and let AI categorize them for you. Features include a chatbot, search, and creative video generation for outfits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
